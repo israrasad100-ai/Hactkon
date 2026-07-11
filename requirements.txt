@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+fpdf
+transformers
+torch
+torchvision
+numpy
+pillow
